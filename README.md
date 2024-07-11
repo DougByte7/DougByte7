@@ -4,7 +4,9 @@ Front-end Developer, Tabletop gamer, React fan, and Creator of [DiceOverdrive](h
 
 I currently work at [Americanas SA](https://www.linkedin.com/company/americanas-sa/mycompany/verification/)
 
-I'm learning at the moment **Expo, ReactNative**
+Learning at the moment: **Expo, ReactNative**
+
+[Resume](./resume.md)
 
 ## Technologies & Tools 🚀💻
 
