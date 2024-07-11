@@ -14,13 +14,11 @@ Title and role: Front End Developer
 
 - Modulation
   - Inventory control for Americanas physical stores.
-    - Front end
-      - Tech: NextJS, Typescript, Tailwind, MUI, Jotai, Apollo GraphQL client, Azure k8s
-    - GraphQL server
-      - Tech: Typescript, Fastify, GraphQL Mercurius, Azure k8s
+  - Front end Tech: NextJS, Typescript, Tailwind, MUI, Jotai, Apollo GraphQL client, Azure k8s
+  - GraphQL server Tech: Typescript, Fastify, GraphQL Mercurius, Azure k8s
 - PAbastecimento | PCompras | Kronos
   - Assortment management. | Budget management for departments of each type of product. | Logs, registration and cron execution.
-  - Tech: Module Federation (Micro front ends), React, Typescript, Tailwind, Jotai, Mantine, React Query, Docker.
+  - Tech: Module Federation (Micro front ends), React, Typescript, Tailwind, Jotai, Mantine, React Query, Vite, Vitest, react-testing-library, Docker.
 - Thanos and Portal Fornecedor
   - Product registration and management of marketing structures for suppliers.
   - Tech: Angular 12, Typescript, Sass, Docker.
@@ -29,10 +27,10 @@ Title and role: Front End Developer
   - Tech: Lit components, Typescript, Sass, Rollup.
 - [Americanas Marketplace](https://www.americanasmarketplace.com.br/)
   - Is a platform that allows you to advertise and sell your products on the Americanas, Americanas Empresas, Submarino, and Shoptime websites.
-  - Tech: Single spa (Micro front end architecture based on api gateway), Angular 4 and 12, Sass; React, Typescript, Context API, Vite, Styled Components, React Query.
+  - Tech: Single spa (Micro front end architecture based on api gateway), Angular 4 and 12, Sass; React, Typescript, Context API, Vite, Styled Components, React Query, react-testing-library.
 - [Skyhub](https://new.skyhub.com.br/home)
   - Brazilian marketplace integration platform that aims to optimize the entire sales operation management in e-commerce.
-  - Tech: React, Typescript, Context API, aws, webpack, glamor css
+  - Tech: React, Typescript, Context API, aws, webpack, glamor CSS, jest, enzyme
 
 ### Dice Overdrive (Personal Project) - [diceoverdrive.com](https://diceoverdrive.com/)
 
