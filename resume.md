@@ -34,11 +34,11 @@ Title and role: Front End Developer
 
 ### Dice Overdrive (Personal Project) - [diceoverdrive.com](https://diceoverdrive.com/)
 
-_July 2020 - Present_
+_July 2020 - 2024_
 
 Role: Full stack dev.
 
-Dice Overdrive is virtual tabletop for RPGs. Currently it can be used as a replacement for paper character sheets, and 5e monsters reference.
+Dice Overdrive is a virtual tabletop for RPGs. Currently, it can replace paper character sheets and 5e monster references.
 
 - Tech: NextJs, Typescript, Zustand + Jotai, Tailwind, tRPC, Prisma ORM, NeonDB (Postgres), elysiajs
 
@@ -52,7 +52,7 @@ Title: Computer Science (Bachelor of Science)
 
 ## Tech
 
-### Things I'm great at (>4 years industry experience)
+### Things I'm great at (>5 years industry experience)
 
 [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [Vite](https://vitejs.dev/), [NextJS](https://nextjs.org/), [Jotai](https://jotai.org/)
 
