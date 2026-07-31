@@ -12,6 +12,10 @@ Title and role: Front End Developer
 
 #### Projects (Public-facing projects have clickable links)
 
+- Pricing
+  - Price and promotion management
+  - Front end - Tech: NextJS, MUI (with customizations)
+  - Back end - Tech: Java 25, Spring Boot, RabbitMQ, Redis, Oracle 19c
 - Modulation
   - Inventory control for Americanas physical stores.
   - Front end Tech: NextJS, Typescript, Tailwind, MUI, Jotai, Apollo GraphQL client, Azure k8s
